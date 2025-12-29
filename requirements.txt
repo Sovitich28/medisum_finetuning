@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+peft
+trl
+accelerate
+bitsandbytes
+scipy
+evaluate
+fastapi
+uvicorn
+pydantic

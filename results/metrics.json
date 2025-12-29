@@ -1,0 +1,8 @@
+{
+    "rouge1": 0.8245,
+    "rouge2": 0.7120,
+    "rougeL": 0.7950,
+    "rougeLsum": 0.8010,
+    "avg_latency_ms": 120.5,
+    "gpu_memory_usage_gb": 6.8
+}
